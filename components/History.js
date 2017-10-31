@@ -57,7 +57,7 @@ class History extends Component {
 		const { entries } = this.props
 		const { ready } = this.state
 
-		if (ready === false {
+		if (ready === false) {
 			return <AppLoading />
 		}
 
