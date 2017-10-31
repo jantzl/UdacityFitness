@@ -4,7 +4,7 @@ import {
 	TouchableOpacity, 
 	Text, 
 	StyleSheet, 
-	Platform, 
+	Platform
 } from 'react-native'
 import { 
 	getMetricMetaInfo, 
